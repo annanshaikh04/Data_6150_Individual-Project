@@ -1,1 +1,12 @@
-This project focuses on forecasting energy demand within the PJM regional transmission organization, which coordinates wholesale electricity for multiple U.S. states. Using hourly energy consumption data, this study aims to provide accurate demand forecasts that will assist grid operators in managing energy supply effectively. Accurate forecasting is critical for minimizing operational costs and ensuring energy reliability. This analysis will explore various time series models and backtest their performances, ultimately selecting the most suitable method based on accuracy and robustness.
+# Energy Demand Forecasting Using Time-Series Models
+This project focuses on forecasting energy demand using various time-series models such as Naïve, Exponential Smoothing, ARIMA, and SARIMA.
+
+## Folder Structure
+- `Final_Report.docx`: Contains the detailed report.
+- `codes/`: Python scripts and Jupyter notebooks.
+- `data/`: Dataset used in the project.
+- `graph/`: Graphical outputs from the analysis.
+
+## How to Run
+1. Clone this repository.
+2. Install dependencies:
