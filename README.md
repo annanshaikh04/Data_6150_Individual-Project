@@ -2,7 +2,7 @@
 This project focuses on forecasting energy demand using various time-series models such as Naïve, Exponential Smoothing, ARIMA, and SARIMA.
 
 ## Folder Structure
-- `Final_Report.docx`: Contains the detailed report.
+- `6150_Individual_Project_Annanahmed_Word.docx`: Contains the detailed report.
 - `codes/`: Python scripts and Jupyter notebooks.
 - `data/`: Dataset used in the project.
 - `graph/`: Graphical outputs from the analysis.
