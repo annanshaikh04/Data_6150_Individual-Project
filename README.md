@@ -37,7 +37,7 @@ cd your-repo-name`
 - Preprocess the dataset.
 - Visualize seasonal trends and patterns.
 - Train and evaluate forecasting models.
-3. Alternatively, execute project_code.py to generate forecasts.
+3. Alternatively, execute Data_6150_Individual_Project_Annanahmed_code.py to generate forecasts.
 
 
 ## Folder Structure
